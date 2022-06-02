@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {
+font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+font-size: 50px;
+font-weight: bold;
+text-align: center;
+padding: 30px 5px 0 5px;
+line-height: 45px;
+}
+
+body{background: url(../img/Gor.jpg) repeat-y center;}
+
+h2 {
+font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+font-size: 25px;
+font-weight: bold;
+text-align: center;
+padding: 25px;
+line-height: 29px;
+}
+
+p {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 17px;
+padding-bottom:20px;
+line-height: 22px;
+}
+
+.txt {
+width:800px;
+margin:0 auto;
+}
+.block-1{
+width:800px;
+}
+
+.osn_block{
+background: url(../img/osn_block.png) repeat-y center;
+}
